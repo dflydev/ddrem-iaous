@@ -1,0 +1,18 @@
+/*
+Theme Name: iaous.com (ddRem)
+Theme URI: http://iaous.com/
+Description: IAO's WordPress Theme. Based on ddRem.
+Author: dflydev
+Template: ddrem
+Version: 0.1
+*/
+
+#site-title span a {
+	display: block;
+	text-indent: -90000px;
+	width: 201px;
+	height: 55px;
+	background-image: url(iaous.png);
+	margin-left: 0px;
+}
+#site-description { display: none; }
