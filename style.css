@@ -10,9 +10,10 @@ Version: 0.1
 #site-title span a {
 	display: block;
 	text-indent: -90000px;
-	width: 201px;
+	width: 55px;
 	height: 55px;
 	background-image: url(iaous.png);
 	margin-left: 0px;
 }
 #site-description { display: none; }
+#header { margin-left: 20px; margin-right: 20px; }
